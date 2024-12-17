@@ -110,7 +110,7 @@ def part2():
 
 
 if __name__ == "__main__":
-    tape = Tape("p10.txt")
+    tape = Tape("p17.txt")
     print(",".join(map(str, tape.run())))
     print(tape.regs)
     print("===== Part 2 =====")
