@@ -73,8 +73,6 @@ def part2():
     # poss_read = [[]]
     # poss_read_curr = []
     poss_curr = []
-    B = 0
-    C = 0
     for i in range(16):
         poss_curr = []
         # poss_read_curr = []
